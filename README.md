@@ -17,3 +17,4 @@ Para a execução deste projeto, algumas bibliotecas precisam ser instaladas. Se
 6° Acesse a URL http://localhost:5000 para utilizar a IA de Notícias<br />
 
 # Consulta-API-Mercado-LIvre
+# Consulta_API_Mercado_Livre
